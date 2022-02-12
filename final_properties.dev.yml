@@ -30,7 +30,7 @@ spring:
           starttls:
             enable: true
 server:
-  port: 8888
+  port: 8082
 
 jwt:
   expiration: 600000
